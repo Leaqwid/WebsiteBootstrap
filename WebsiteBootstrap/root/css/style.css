@@ -1,0 +1,40 @@
+
+
+body {
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+
+    font-style: normal;
+
+}
+
+h3 {
+    padding-top: 1rem;
+}
+
+
+.container-fluid {
+    padding-left: 6rem;
+    padding-right: 6rem;
+}
+
+.text-footer {
+    color: grey;
+}
+
+.link-footer {
+    color: #d2d2d2;
+}
+
+
+.custom-footer {
+    background-color: rgba(34, 34, 34, 255);
+}
+
+.second-footer {
+    background-color: rgb(20, 20, 20);
+    color: rgb(97, 97, 97);
+}
+.custom-hero {
+    background-color: #38b068;
+}
